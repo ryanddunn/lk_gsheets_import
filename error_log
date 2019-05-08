@@ -1,0 +1,2 @@
+[08-May-2019 12:06:28 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '<' in /home/d3sys0/public_html/lk_gsheets_import/api_to_html.php on line 80
+[08-May-2019 12:12:50 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/d3sys0/public_html/lk_gsheets_import/api_to_html.php on line 46
